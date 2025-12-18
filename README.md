@@ -9,8 +9,12 @@
 - 🔧 Hardware & embedded systems enthusiast  
 - 🤖 Exploring **AI-powered tools with Python** and **AI integration on microcontrollers**
 - ⚡ Interested in power electronics, sensors, and smart systems
+
+- 🎓 M.Sc. in **Artificial Intelligence**  
+  *Gebze Technical University – Kocaeli*
 - 🎓 B.Sc. in **Electronics & Communication Engineering**  
   *Yıldız Technical University – Istanbul*
+
 - 📫 Contact: **enginsunal@gmail.com**
 
 ---
